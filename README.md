@@ -1,0 +1,1 @@
+# no-anti-pattern.github.io
